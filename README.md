@@ -7,7 +7,7 @@ Notebook with examples of common scenarios while doing DS/ML
 - Some are functions from Pandas such as .corr for Pearson and Spearman, other are UDF such as Cramers'V, Theil's U , Correlation Ratio and Time Lagged Cross Correlation. 
 - The intention is to display different scenario where different data types can be associated.
 
-## Correlation Clusterin
+## Correlation Clustering
 - Applies an unsupervised hierarchical clustering using correlation matrix
 - The correlation matrix is converted to a distance matrix 
 - Each cluster holds correlated variable, and between each clusters, variables should be less similar
